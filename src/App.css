@@ -25,3 +25,7 @@ b {
   font-family: "Hubot Sans", sans-serif;
   color: var(--pico-color-violet-500);
 }
+
+.cast-dropdown {
+  --pico-font-size: 0.9rem;
+}
